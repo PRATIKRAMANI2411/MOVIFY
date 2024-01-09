@@ -7,7 +7,7 @@ import { SlMenu } from "react-icons/sl";
 import { VscChromeClose } from "react-icons/vsc";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";
-import Logo from "../../assets/movix-logo.svg";
+import Logo from "../../assets/movify-logo.svg";
 
 const Header = () => {
     const [show, setShow] = useState("top");
